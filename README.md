@@ -1,3 +1,3 @@
 # Gitcoin
 
-Contribution days: 14
+Contribution days: 15
